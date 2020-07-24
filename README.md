@@ -1,2 +1,2 @@
 # Hangman
-Second Project taught in CSI's Techstation Java Bootcamp
+First Project taught in CSI's Techstation Java Bootcamp
